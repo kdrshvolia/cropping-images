@@ -1,0 +1,16 @@
+.draggable-rect {
+   position: absolute;
+   width: 15px;
+   height: 15px;
+   background: rgba(0, 0, 0, .85);
+   cursor: ew-resize;
+   display: none;
+ }
+
+.draggable-rect-ver {
+  position: absolute;
+  width: 20px;
+  height: 5px;
+  background: #fff;
+  cursor: ns-resize;
+}
